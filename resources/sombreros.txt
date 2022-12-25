@@ -1,0 +1,212 @@
+-1 RWC Statue(winner)
+1 Marionette Doll
+100 Feather
+100 Puppet
+100 Cyfar
+50 Darkgreen Dyestuff
+50 Cobaltblue Dyestuff
+
+-2 Tam
+1 Spiky Band
+100 Fabric
+100 Wrapping Lace
+100 Yarn
+50 White Dyestuff
+50 Cobaltblue Dyestuff
+
+-3 Helm Of Abyss
+1 Biretta [1]
+100 Black Bear Skin
+100 Black Hair
+100 Scell
+50 Black Dyestuff
+50 Orange Dyestuff
+
+-4 Angeling Hat
+1 Poring Hat
+100 Jellopy
+100 Little Evil wing
+100 White Dyestuff
+50 Scarlet Dyestuff
+
+-5 Feather Beret
+1 Beret
+100 Soft Feather
+100 Feather
+100 Yarn
+50 White Dyestuff
+50 Cobaltblue Dyestuff
+
+-6 Wild Rose Hat
+1 Marionette Doll
+100 Witherless Rose
+100 Black Cat Doll
+100 Wrapping Lace
+50 Black Dyestuff
+50 White Dyestuff
+
+-7 Striped Hat
+1 Magician Hat
+100 Bear's Footskin
+100 Tiger's Footskin
+100 Soft silk
+50 Lemon Dyestuff
+50 Scarlet Dyestuff
+
+-8 Frog King Hat
+1 Marionette Doll
+100 Spawn
+100 Venom Canine
+100 Scale Shell
+50 Lemon Dyestuff
+50 Darkgreen Dyestuff
+
+-9 Deviling Hat
+1 Marionette Doll
+500 Little Evil Wing
+100 Black Dyestuff
+
+-10 Skull Cap
+1 Galapago Cap
+100 Skel-Bon
+100 Skeletal Armor Piece
+50 Black Dyestuff
+
+-11 Bird Nest Hat
+1,Egg Shell
+100 Piece of Egg Shell
+100 Strong Branch
+100 Fig Leaf
+50 Orange Dyestuff
+50 Scarlet Dyestuff
+
+-12 Mask Of ifrit
+1 Fricca's Circlet
+100 Burning Hair
+100 Burning Heart
+100 Red Bijou
+50 Scarlet Dyestuff
+50 Orange Dyestuff
+
+-13 Hattah Black
+1 Bandana
+100 Tattered Clothes
+100 Elastic Band
+100 Fabric
+50 Lemon Dyestuff
+50 Scarlet Dyestuff
+
+-14 Chicken Hat
+1 Bird Nest Hat
+100 Egg
+100 Pet Incubator
+100 Feather
+50 White Dyestuff
+
+-15 Asara Fairy Hat
+1 Nurse Cap
+100 Suspicious Hat
+100 Bloody Rune
+100 White Mask
+50 White Dyestuff
+50 Orange Dyestuff
+
+-16 Blue Night Cap
+1 Bucket Hat [1]
+100 Blue Bijou
+100 Crystal Blue
+100 Blue Feather
+50 White Dyestuff
+50 Cobaltblue Dyestuff
+
+-17 Pink Night Cap
+1 Bucket Hat [1]
+100 Red Bijou
+100 Flame Heart
+100 Red Feather
+50 White Dyestuff
+50 Scarlet Dyestuff
+
+-18 Necr1ancer's Hood
+1 Hood [1]
+100 Evil Horn
+100 Animal Skin
+100 Amulet
+100 Orange Dyestuff
+
+-19 Wandering Wolf Helm 
+1 Bucket Hat [1]
+100 Wolf Claw
+100 Fur
+100 Fang
+100 Cobaltblue Dyestuff
+
+-20 Koneko Hat
+1 Kitty Band
+100 Oridecon
+100 Shrimp
+100 Nine Tails
+50 White Dyestuff
+
+-21 Observer
+1 Dark Blinder [1]
+100 Crystal Fragment
+100 Rusty Screw
+100 Used Iron Plate
+50 Scarlet Dyestuff
+
+-22 Magic Eyes
+1 Marionette Doll
+100 Witched Starsand
+100 Star Crumb
+100 Yarn
+50 Cobaltblue Dyestuff
+
+-23 Turtle Hat
+1 Marionette Doll
+100 Turtle Shell
+100 Broken Shell
+50 Lemon Dyestuff
+50 Black Dyestuff
+
+-24 Tendrilion Hat
+1 Spiky Band [1]
+200 Soft Feather
+200 Feather
+50 Lemon Dyestuff
+50 White Dyestuff
+
+-25 Pagdayaw
+1 Spiky Band [1]
+50 Fragment of Rossata Stone
+50 Skeletal Armor Piece
+20 Reins
+50 Black Dyestuff
+
+-26 F Mini Propeller
+1 Spiky Band [1]
+100 Rough Oridecon
+100 Rough Elunium
+100 Iron Ore
+50 White Dyestuff
+
+-27 Moonlight Flower Hat
+1 Angel Wing Ears [1]
+1000 Nine Tail
+100 Orange Dyestuff
+
+-28 Remover Hat
+1 Hat [1]
+100 Mixture
+100 Counteragent
+50 Orange Dyestuff
+50 Scarlet Dyestuff
+
+-29 Golden Fish In Mouth
+1 Grampa Beard
+200 Fish Tail
+200 Heart of Mermaid
+100 Lemon Dyestuff
+
+-30 Helm of Darkness
+100 Cheques
